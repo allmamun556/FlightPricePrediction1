@@ -10,6 +10,3 @@ from app import test1
 
 def test0():
     assert test1()==None
-
-    
-   
