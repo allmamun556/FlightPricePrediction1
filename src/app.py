@@ -4,8 +4,8 @@ import sklearn
 import pickle
 import pandas as pd 
 """Add Function"""
-def test1(x,y):
-    return x+y
+def test1():
+    return None
 
 app = Flask(__name__)
 model = pickle.load(open("flight_rf.pkl", "rb"))
