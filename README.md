@@ -56,6 +56,7 @@ All configurable data (for example: Directory names, paths), have been placed at
 # Merics
  In FlightPricePrediction I have used two Metrics which is Sonarcloud and Codacy.
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/94bf1d84f7614a2cafa6c8bbfb943fd8)](https://app.codacy.com/gh/allmamun556/FlightPricePrediction1?utm_source=github.com&utm_medium=referral&utm_content=allmamun556/FlightPricePrediction1&utm_campaign=Badge_Grade)
 **SonarCloud** is a cloud service offered by SonarSource and based on SonarQube. SonarQube is a widely adopted open source platform to inspect continuously the quality of source code and detect bugs, vulnerabilities and code smells in more than 20 different languages. [![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=allmamun556_FlightPricePrediction1&metric=alert_status)](https://sonarcloud.io/dashboard?id=allmamun556_FlightPricePrediction1)
 
 ![Alt Text](https://github.com/allmamun556/FlightPricePrediction1/blob/master/sonar%20cloud.JPG)
