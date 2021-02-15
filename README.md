@@ -22,6 +22,18 @@ Following are the UML diagrams of the project.
 ## 3. Deployment Diagram
 ![Alt Text](https://github.com/allmamun556/FlightPricePrediction1/blob/master/3(Deployment%20Diagram).JPG)
 
+# Merics
+ In FlightPricePrediction I have used two Metrics which is Sonarcloud and Codacy.
+
+
+**SonarCloud** is a cloud service offered by SonarSource and based on SonarQube. SonarQube is a widely adopted open source platform to inspect continuously the quality of source code and detect bugs, vulnerabilities and code smells in more than 20 different languages. [![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=allmamun556_FlightPricePrediction1&metric=alert_status)](https://sonarcloud.io/dashboard?id=allmamun556_FlightPricePrediction1)
+
+![Alt Text](https://github.com/allmamun556/FlightPricePrediction1/blob/master/Sonar_Cloud.JPG)
+
+**Codacy** Automatically identify issues through static code review analysis. Therefore we can be notified on security issues, code coverage, code duplication, and code complexity in every commit and pull request, directly from your current workflow.[![Codacy Badge](https://app.codacy.com/project/badge/Grade/b4e50059ed3149c7be657492dec30b58)](https://www.codacy.com/gh/allmamun556/FlightPricePrediction1/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=allmamun556/FlightPricePrediction1&amp;utm_campaign=Badge_Grade)
+
+![Alt Text](https://github.com/allmamun556/FlightPricePrediction1/blob/master/codacy.JPG)
+
 # Clean Code Development
 ### 1. Consistent naming convention
  Throughout coding, naming scheme of camel case is used for both variables and functions. Moreover, for immutable/final variables all-upper-casing scheme is used.
@@ -53,18 +65,16 @@ All configurable data (for example: Directory names, paths), have been placed at
 * Tried to keep it simple
 * Tried to keep clean
 
-# Merics
- In FlightPricePrediction I have used two Metrics which is Sonarcloud and Codacy.
 
-
-**SonarCloud** is a cloud service offered by SonarSource and based on SonarQube. SonarQube is a widely adopted open source platform to inspect continuously the quality of source code and detect bugs, vulnerabilities and code smells in more than 20 different languages. [![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=allmamun556_FlightPricePrediction1&metric=alert_status)](https://sonarcloud.io/dashboard?id=allmamun556_FlightPricePrediction1)
-
-![Alt Text](https://github.com/allmamun556/FlightPricePrediction1/blob/master/Sonar_Cloud.JPG)
-
-**Codacy** Automatically identify issues through static code review analysis. Therefore we can be notified on security issues, code coverage, code duplication, and code complexity in every commit and pull request, directly from your current workflow.[![Codacy Badge](https://app.codacy.com/project/badge/Grade/b4e50059ed3149c7be657492dec30b58)](https://www.codacy.com/gh/allmamun556/FlightPricePrediction1/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=allmamun556/FlightPricePrediction1&amp;utm_campaign=Badge_Grade)
-
-![Alt Text](https://github.com/allmamun556/FlightPricePrediction1/blob/master/codacy.JPG)
-
+# Deployment(using Heroku) / Build
+To see ***Heroku Live Deployment*** [please click here](https://flightbg225.herokuapp.com/predict).
+### User interface
+![Alt Text](https://github.com/allmamun556/FlightPricePrediction1/blob/master/User_Interface_1.JPG)
+![Alt Text](https://github.com/allmamun556/FlightPricePrediction1/blob/master/User_Interface_2.JPG)
+### Heroku Overview
+![Alt Text](https://github.com/allmamun556/FlightPricePrediction1/blob/master/Herok%20Build%20or%20%20Deployment/heroku%20overview.JPG)
+### Heroku Build Management (Application logs)
+![Alt Text](https://github.com/allmamun556/FlightPricePrediction1/blob/master/Herok%20Build%20or%20%20Deployment/heroku%20build%20or%20Application%20log.JPG)
 
 # Unit Test
 
@@ -98,6 +108,11 @@ Intellij is my favourite IDE. Here is some of my favourite shortcut.
 
 ![Alt Text](https://github.com/allmamun556/FlightPricePrediction1/blob/master/IntellijShortcut.JPG)
 
+# DSL (Domain specific language)
+Following script isan example of Domain Specific Language. This script has been written in .iml.
+![Alt Text](https://github.com/allmamun556/FlightPricePrediction1/blob/master/DSL.JPG)
+
+
 # Functional Programming
 Functional programming is a paradigm, or style, that values immutability, first-class functions, referential transparency, and pure functions. functions as machines — they take an input, or arguments, and then output something, the return value. 
 Throughout this project, good practices for functional programming have been adopted. Following are few examples of such practices;
@@ -115,15 +130,5 @@ Here fixed data structers are use dto test and train the the machine learning mo
 
 ![Alt Text](https://github.com/allmamun556/FlightPricePrediction1/blob/master/Functional%20programming/train.JPG)
 ![Alt Text](https://github.com/allmamun556/FlightPricePrediction1/blob/master/Functional%20programming/test.JPG)
-# Deployment(using Heroku) / Build
-To see ***Heroku Live Deployment*** [please click here](https://flightbg225.herokuapp.com/predict).
-### User interface
-![Alt Text](https://github.com/allmamun556/FlightPricePrediction1/blob/master/User_Interface_1.JPG)
-![Alt Text](https://github.com/allmamun556/FlightPricePrediction1/blob/master/User_Interface_2.JPG)
-### Heroku Overview
-![Alt Text](https://github.com/allmamun556/FlightPricePrediction1/blob/master/Herok%20Build%20or%20%20Deployment/heroku%20overview.JPG)
-### Heroku Build Management (Application logs)
-![Alt Text](https://github.com/allmamun556/FlightPricePrediction1/blob/master/Herok%20Build%20or%20%20Deployment/heroku%20build%20or%20Application%20log.JPG)
-### DSL (Domain specific language)
-Following script isan example of Domain Specific Language. This script has been written in .iml.
-![Alt Text](https://github.com/allmamun556/FlightPricePrediction1/blob/master/DSL.JPG)
+
+
