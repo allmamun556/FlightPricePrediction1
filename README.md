@@ -91,7 +91,7 @@ GitHub Action is configured by adding a file named python-app.yml, which is a YA
 
 # IDE
 
-![Alt Text](https://github.com/allmamun556/FlightPricePrediction1/blob/master/intellij_picture.JPG)
+![https://github.com/allmamun556/FlightPricePrediction1/blob/master/Intellij.JPG)
 
 Intellij is my favourite IDE. Here is some of my favourite shortcut.
 
