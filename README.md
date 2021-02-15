@@ -109,7 +109,7 @@ Intellij is my favourite IDE. Here is some of my favourite shortcut.
 ![Alt Text](https://github.com/allmamun556/FlightPricePrediction1/blob/master/IntellijShortcut.JPG)
 
 # DSL (Domain specific language)
-Following script isan example of Domain Specific Language. This script has been written in .iml.
+Following script is an example of Domain Specific Language. This script has been written in .iml.
 ![Alt Text](https://github.com/allmamun556/FlightPricePrediction1/blob/master/DSL.JPG)
 
 
