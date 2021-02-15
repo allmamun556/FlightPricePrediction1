@@ -62,5 +62,8 @@ GitHub Action is configured by adding a file named python-app.yml, which is a YA
 ![Alt Text](https://github.com/allmamun556/FlightPricePrediction1/blob/master/Github%20Action%20CI/Run%20Check%20out.JPG)
 ![Alt Text](https://github.com/allmamun556/FlightPricePrediction1/blob/master/Github%20Action%20CI/Complete.JPG)
 # IDE
+
 Intellij is my favourite IDE. Here is some of my favourite shortcut.
+
+
 ![Alt Text](https://github.com/allmamun556/FlightPricePrediction1/blob/master/IntellijShortcut.JPG)
