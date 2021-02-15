@@ -38,3 +38,14 @@ All configurable data (for example: Directory names, paths), have been placed at
 **Codacy** Automatically identify issues through static code review analysis. Therefore we can be notified on security issues, code coverage, code duplication, and code complexity in every commit and pull request, directly from your current workflow.
 ![Alt Text](https://github.com/allmamun556/FlightPricePrediction1/blob/master/codacy%20test.JPG)
 ![Alt Text](https://github.com/allmamun556/FlightPricePrediction1/blob/master/Codacy%20test%202.JPG)
+
+# Unit Test
+
+### Test using Selenium Automation
+![Alt Text](https://github.com/allmamun556/FlightPricePrediction1/blob/master/Test%20with%20selenium.JPG)
+
+### Selenium  Automation Directory
+![Alt Text](https://github.com/allmamun556/FlightPricePrediction1/blob/master/working%20directory%20for%20%20automation%20testing.JPG)
+###  Unit test from GitBash using pytest
+![Alt Text](https://github.com/allmamun556/FlightPricePrediction1/blob/master/Unit%20test.JPG)
+
