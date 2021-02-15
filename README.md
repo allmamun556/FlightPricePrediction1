@@ -4,6 +4,11 @@ FlightPricePrediction is a python web application which can predict the flight p
 
 # About Data 
  Data is taken from kaggle.[Here](https://www.kaggle.com/nikhilmittal/flight-fare-prediction-mh) is  more information of the Data.
+ 
+# Random Forest
+Random forests or random decision forests are an ensemble learning method for classification, regression and other tasks that operate by constructing a multitude of decision  trees at training time and outputting the class that is the mode of the classes (classification) or mean/average prediction (regression) of the individual trees.Random    decision forests correct for decision trees' habit of overfitting to their training set.Random forests generally outperform decision trees, but their accuracy is lower than gradient boosted trees.
+
+![Alt Text](https://github.com/allmamun556/FlightPricePrediction1/blob/master/Random%20Forest/random_forest.JPG)
 
 
 # UML
