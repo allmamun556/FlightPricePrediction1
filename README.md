@@ -6,7 +6,7 @@
 # UML
 Following are the UML diagrams of the project.
 ## 1. Activity Diagram
-![plot](C:\Users\49157\Desktop\flight price\1 UML)
+![Alt Text](https://github.com/allmamun556/FlightPricePrediction1/blob/master/1(Activity%20Diagram).JPG)
 
 ## 2. Use Case Diagram 
 
