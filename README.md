@@ -22,4 +22,9 @@ Following are the UML diagrams of the project.
 
 Source code has been divided into two modules. Module "Analyzer" is responsible for object recognition tasks, while module "Router" is responsible for routing of incoming and outgoing rest API requests.
 ![Alt Text](https://github.com/allmamun556/FlightPricePrediction1/blob/master/Modularity.JPG)
+
+### 3. Configure Data at Higher Level
+All configurable data (for example: Directory names, paths), have been placed at higher level, making tweaking of values easier for the purpose of debugging.
+
+![Alt Text](https://github.com/allmamun556/FlightPricePrediction1/blob/master/Configure%20Data%20at%20Higer%20Level.JPG)
  
