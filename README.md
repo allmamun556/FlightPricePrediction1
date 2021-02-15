@@ -118,7 +118,8 @@ Here fixed data structers are use dto test and train the the machine learning mo
 # Deployment(using Heroku) / Build
 To see ***Heroku Live Deployment*** [please click here](https://git.heroku.com/flightbg225.git).
 ### User interface
-![Alt Text](https://github.com/allmamun556/FlightPricePrediction1/blob/master/Herok%20Build%20or%20%20Deployment/User%20interface.JPG)
+![Alt Text](https://github.com/allmamun556/FlightPricePrediction1/blob/master/User_Interface_1.JPG)
+![Alt Text](https://github.com/allmamun556/FlightPricePrediction1/blob/master/User_Interface_2.JPG)
 ### Heroku Overview
 ![Alt Text](https://github.com/allmamun556/FlightPricePrediction1/blob/master/Herok%20Build%20or%20%20Deployment/heroku%20overview.JPG)
 ### heroku build or Application logs
