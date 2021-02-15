@@ -79,8 +79,8 @@ As discussed earlier, wherever necessary context management has been used. So th
 # Deployment(using Heroku) / Build
 To see ***Heroku Live Deployment*** [please click here](https://git.heroku.com/flightbg225.git).
 ### User interface
-![https://github.com/allmamun556/FlightPricePrediction1/blob/master/Herok%20Build%20or%20%20Deployment/User%20interface%201.JPG)
+![Alt Text][https://github.com/allmamun556/FlightPricePrediction1/blob/master/Herok%20Build%20or%20%20Deployment/User%20interface%201.JPG)
 ### Heroku Overview
-![https://github.com/allmamun556/FlightPricePrediction1/blob/master/Herok%20Build%20or%20%20Deployment/heroku%20overview%202.JPG)
+![Alt Text][https://github.com/allmamun556/FlightPricePrediction1/blob/master/Herok%20Build%20or%20%20Deployment/heroku%20overview%202.JPG)
 ### heroku build or Application logs
-![https://github.com/allmamun556/FlightPricePrediction1/blob/master/Herok%20Build%20or%20%20Deployment/Heroku%20Build.JPG)
+![Alt Text][https://github.com/allmamun556/FlightPricePrediction1/blob/master/Herok%20Build%20or%20%20Deployment/Heroku%20Build.JPG)
