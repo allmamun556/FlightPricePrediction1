@@ -122,7 +122,7 @@ To see ***Heroku Live Deployment*** [please click here](https://git.heroku.com/f
 ![Alt Text](https://github.com/allmamun556/FlightPricePrediction1/blob/master/User_Interface_2.JPG)
 ### Heroku Overview
 ![Alt Text](https://github.com/allmamun556/FlightPricePrediction1/blob/master/Herok%20Build%20or%20%20Deployment/heroku%20overview.JPG)
-### heroku build or Application logs
+### Heroku Build Management (Application logs)
 ![Alt Text](https://github.com/allmamun556/FlightPricePrediction1/blob/master/Herok%20Build%20or%20%20Deployment/heroku%20build%20or%20Application%20log.JPG)
 ### DSL (Domain specific language)
 Following script isan example of Domain Specific Language. This script has been written in .iml.
