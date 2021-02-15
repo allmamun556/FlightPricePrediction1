@@ -9,5 +9,7 @@ Following are the UML diagrams of the project.
 ![Alt Text](https://github.com/allmamun556/FlightPricePrediction1/blob/master/1(Activity%20Diagram).JPG)
 
 ## 2. Use Case Diagram 
+![Alt Text].(https://github.com/allmamun556/FlightPricePrediction1/blob/master/2(UserCaseDiagram).JPG)
 
 ## 3. Deployment Diagram
+![Alt Text].(https://github.com/allmamun556/FlightPricePrediction1/blob/master/3(Deployment%20Diagram).JPG)
