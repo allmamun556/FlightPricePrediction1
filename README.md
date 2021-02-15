@@ -37,8 +37,7 @@ All configurable data (for example: Directory names, paths), have been placed at
 ![Alt Text](https://github.com/allmamun556/FlightPricePrediction1/blob/master/Configure%20Data%20at%20Higer%20Level.JPG)
 
 # Merics
- In FlightPricePrediction I have used two Metrics which is Sonarcloud and Codacy
- In Scrappy I have used Two Matrices which is Sonarcloud and Codacy.
+ In FlightPricePrediction I have used two Metrics which is Sonarcloud and Codacy.
 
 **SonarCloud** is a cloud service offered by SonarSource and based on SonarQube. SonarQube is a widely adopted open source platform to inspect continuously the quality of source code and detect bugs, vulnerabilities and code smells in more than 20 different languages.
 ![Alt Text](https://github.com/allmamun556/FlightPricePrediction1/blob/master/sonar%20cloud.JPG)
