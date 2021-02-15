@@ -67,3 +67,9 @@ Intellij is my favourite IDE. Here is some of my favourite shortcut.
 
 
 ![Alt Text](https://github.com/allmamun556/FlightPricePrediction1/blob/master/IntellijShortcut.JPG)
+
+# Functional Programming
+Throughout this project, good practices for functional programming have been adopted. Following are few examples of such practices;
+### 1. Side Effect Free Functions
+As discussed earlier, wherever necessary context management has been used. So that effect of overlying function could remain locally. Hence using them would not result any side effects.
+![Alt Text](https://github.com/allmamun556/FlightPricePrediction1/blob/master/Modularity.JPG)
