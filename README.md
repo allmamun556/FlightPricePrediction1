@@ -81,6 +81,6 @@ To see ***Heroku Live Deployment*** [please click here](https://git.heroku.com/f
 ### User interface
 ![Alt Text](https://github.com/allmamun556/FlightPricePrediction1/blob/master/Herok%20Build%20or%20%20Deployment/User%20interface.JPG)
 ### Heroku Overview
-![Alt Text](https://github.com/allmamun556/FlightPricePrediction1/blob/master/intellij_picture.JPG)
+![Alt Text](https://github.com/allmamun556/FlightPricePrediction1/blob/master/Herok%20Build%20or%20%20Deployment/heroku%20overview.JPG)
 ### heroku build or Application logs
-![Alt Text](https://github.com/allmamun556/FlightPricePrediction1/blob/master/intellij_picture.JPG)
+![Alt Text](https://github.com/allmamun556/FlightPricePrediction1/blob/master/Herok%20Build%20or%20%20Deployment/heroku%20build%20or%20Application%20log.JPG)
