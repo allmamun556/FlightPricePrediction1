@@ -52,3 +52,12 @@ All configurable data (for example: Directory names, paths), have been placed at
 ### Git Bash
 ![Alt Text](https://github.com/allmamun556/FlightPricePrediction1/blob/master/Git%20%20Bash.JPG)
 
+### Continuous Integration(Using GitHub Action)
+GitHub Action is a continuous integration service used to build and test software projects hosted at GitHub by GitHub. 
+
+GitHub Action is configured by adding a file named python-app.yml, which is a YAML format text file, to the .github/workflows directory of the repository.This file specifies the programming language used, the desired building and testing environment (including dependencies which must be installed before the software can be built and tested), and various other parameters. Finally It was built all succesfull and complete.
+![Alt Text](https://github.com/allmamun556/FlightPricePrediction1/blob/master/Github%20Action%20CI/Git%20hub%20action%20CI.JPG)
+![Alt Text](https://github.com/allmamun556/FlightPricePrediction1/blob/master/Github%20Action%20CI/Install%20dependency.JPG)
+![Alt Text](https://github.com/allmamun556/FlightPricePrediction1/blob/master/Github%20Action%20CI/Test.JPG)
+![Alt Text](https://github.com/allmamun556/FlightPricePrediction1/blob/master/Github%20Action%20CI/Run%20Check%20out.JPG)
+![Alt Text](https://github.com/allmamun556/FlightPricePrediction1/blob/master/Github%20Action%20CI/Complete.JPG)
