@@ -97,10 +97,22 @@ Intellij is my favourite IDE. Here is some of my favourite shortcut.
 ![Alt Text](https://github.com/allmamun556/FlightPricePrediction1/blob/master/IntellijShortcut.JPG)
 
 # Functional Programming
+Functional programming is a paradigm, or style, that values immutability, first-class functions, referential transparency, and pure functions. functions as machines — they take an input, or arguments, and then output something, the return value. 
 Throughout this project, good practices for functional programming have been adopted. Following are few examples of such practices;
 ### 1. Side Effect Free Functions
 As discussed earlier, wherever necessary context management has been used. So that effect of overlying function could remain locally. Hence using them would not result any side effects.
 ![Alt Text](https://github.com/allmamun556/FlightPricePrediction1/blob/master/Modularity.JPG)
+
+### 2. Use of Higher Order Function
+Higher order functions like range(), map(), filter() have also used.
+
+![Alt Text](https://github.com/allmamun556/FlightPricePrediction1/blob/master/Functional%20programming/Higher%20order%20functions.JPG)
+
+### 3. Fixed Data Structure
+Here fixed data structers are use dto test and train the the machine learning model.
+
+![Alt Text](https://github.com/allmamun556/FlightPricePrediction1/blob/master/Functional%20programming/train.JPG)
+![Alt Text](https://github.com/allmamun556/FlightPricePrediction1/blob/master/Functional%20programming/test.JPG)
 # Deployment(using Heroku) / Build
 To see ***Heroku Live Deployment*** [please click here](https://git.heroku.com/flightbg225.git).
 ### User interface
