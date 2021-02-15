@@ -116,7 +116,7 @@ Here fixed data structers are use dto test and train the the machine learning mo
 ![Alt Text](https://github.com/allmamun556/FlightPricePrediction1/blob/master/Functional%20programming/train.JPG)
 ![Alt Text](https://github.com/allmamun556/FlightPricePrediction1/blob/master/Functional%20programming/test.JPG)
 # Deployment(using Heroku) / Build
-To see ***Heroku Live Deployment*** [please click here](https://git.heroku.com/flightbg225.git).
+To see ***Heroku Live Deployment*** [please click here](https://flightbg225.herokuapp.com/predict).
 ### User interface
 ![Alt Text](https://github.com/allmamun556/FlightPricePrediction1/blob/master/User_Interface_1.JPG)
 ![Alt Text](https://github.com/allmamun556/FlightPricePrediction1/blob/master/User_Interface_2.JPG)
