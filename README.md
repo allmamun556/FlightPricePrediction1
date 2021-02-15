@@ -6,7 +6,7 @@
 # UML
 Following are the UML diagrams of the project.
 ## 1. Activity Diagram
-![Alt Text](C:\Users\49157\Desktop\flight price\1 UML)
+![plot](C:\Users\49157\Desktop\flight price\1 UML)
 
 ## 2. Use Case Diagram 
 
