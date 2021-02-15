@@ -37,21 +37,21 @@ All configurable data (for example: Directory names, paths), have been placed at
 ![Alt Text](https://github.com/allmamun556/FlightPricePrediction1/blob/master/Configure%20Data%20at%20Higer%20Level.JPG)
 
 ### 4. Clean  use of Functions
-***I always tried to  keep small and do one thing.
-***Used descriptive names and fewer arguments.
+*I always tried to  keep small and do one thing.
+*Used descriptive names and fewer arguments.
 
 ![Alt Text](https://github.com/allmamun556/FlightPricePrediction1/blob/master/Clean%20code/function.JPG)
 
 ### 5.Follow of comments rule
-***Always tried to  explain what is happening.
-*** Tried to give explantion
+*Always tried to  explain what is happening.
+* Tried to give explantion
 
 ![Alt Text](https://github.com/allmamun556/FlightPricePrediction1/blob/master/Clean%20code/comments%20rule.JPG)
 
 ### 6. General Rules
-***Followed standard conventions
-*** Tried to keep it simple
-***Tried to keep clean
+*Followed standard conventions
+* Tried to keep it simple
+*Tried to keep clean
 
 # Merics
  In FlightPricePrediction I have used two Metrics which is Sonarcloud and Codacy.
