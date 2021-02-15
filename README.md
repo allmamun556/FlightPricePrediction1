@@ -49,3 +49,6 @@ All configurable data (for example: Directory names, paths), have been placed at
 ###  Unit test from GitBash using pytest
 ![Alt Text](https://github.com/allmamun556/FlightPricePrediction1/blob/master/Unit%20test.JPG)
 
+### Git Bash
+![Alt Text](https://github.com/allmamun556/FlightPricePrediction1/blob/master/Git%20%20Bash.JPG)
+
