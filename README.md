@@ -23,10 +23,10 @@ Following are the UML diagrams of the project.
 ![Alt Text](https://github.com/allmamun556/FlightPricePrediction1/blob/master/3(Deployment%20Diagram).JPG)
 
 # Clean Code Development
-### 1.Consistent naming convention
+### 1. Consistent naming convention
  Throughout coding, naming scheme of camel case is used for both variables and functions. Moreover, for immutable/final variables all-upper-casing scheme is used.
  
-### 2.Modularity
+### 2. Modularity
 
 Source code has been divided into two modules. Module "Analyzer" is responsible for object recognition tasks, while module "Router" is responsible for routing of incoming and outgoing rest API requests.
 ![Alt Text](https://github.com/allmamun556/FlightPricePrediction1/blob/master/Modularity.JPG)
@@ -42,7 +42,7 @@ All configurable data (for example: Directory names, paths), have been placed at
 
 ![Alt Text](https://github.com/allmamun556/FlightPricePrediction1/blob/master/Clean%20code/function.JPG)
 
-### 5.Follow of comments rule
+### 5. Follow of comments rule
 * Always tried to  explain what is happening.
 * Tried to give explantion
 
