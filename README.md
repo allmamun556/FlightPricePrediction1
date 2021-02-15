@@ -4,3 +4,9 @@
 
 
 # UML
+Following are the UML diagrams of the project.
+## 1. Activity Diagram
+
+## 2. Use Case Diagram 
+
+## 3. Deployment Diagram
