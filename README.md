@@ -76,3 +76,11 @@ Throughout this project, good practices for functional programming have been ado
 ### 1. Side Effect Free Functions
 As discussed earlier, wherever necessary context management has been used. So that effect of overlying function could remain locally. Hence using them would not result any side effects.
 ![Alt Text](https://github.com/allmamun556/FlightPricePrediction1/blob/master/Modularity.JPG)
+# Deployment(using Heroku) / Build
+To see ***Heroku Live Deployment*** [please click here](https://git.heroku.com/flightbg225.git).
+### User interface
+![https://github.com/allmamun556/FlightPricePrediction1/blob/master/Herok%20Build%20or%20%20Deployment/User%20interface%201.JPG)
+### Heroku Overview
+![https://github.com/allmamun556/FlightPricePrediction1/blob/master/Herok%20Build%20or%20%20Deployment/heroku%20overview%202.JPG)
+### heroku build or Application logs
+![https://github.com/allmamun556/FlightPricePrediction1/blob/master/Herok%20Build%20or%20%20Deployment/Heroku%20Build.JPG)
