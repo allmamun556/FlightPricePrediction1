@@ -1,6 +1,6 @@
 
 # Introduction 
-FlightPricePrediction is a python web application which can predict the flight price based on Departue Time, Arrival Time, Source, destination, Stopage and based on airlines. This platform is  used  FLASK  and give response based on HTTP request. Random Forest Machine learning approach has been used here.
+FlightPricePrediction is a python web application which can predict the flight price based on Departue Time, Arrival Time, Source, destination, Stopage and based on airlines. This platform is  used  FLASK  and give response based on HTTP request. Random Forest Machine learning approach has been used here .
 
 # About Data 
  Data is taken from kaggle. [Here](https://www.kaggle.com/nikhilmittal/flight-fare-prediction-mh) is  more information of the Data.
