@@ -363,6 +363,8 @@ def predict():
 
     return render_template("home.html")
 
+def test2():
+    pass
 
 
 
